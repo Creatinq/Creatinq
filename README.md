@@ -12,7 +12,7 @@ I'm a 15 year old java developer, I'm learning most of java at the moment.
 
 #### Specs
 
-<img src="{https://img.shields.io/badge/NVIDIA-RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white }" <img src="{https://img.shields.io/badge/Intel%20Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white}"/> 
+<img src="{https://img.shields.io/badge/NVIDIA-RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white }"
 
 #### Languages
 

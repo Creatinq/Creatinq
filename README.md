@@ -16,4 +16,5 @@ I'm a 15 year old java developer, I'm learning most of java at the moment.
 <img align="left" alt="medium" src="https://img.shields.io/badge/NVIDIA-RTX3060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/16GB RAM-000000?style=for-the-badge&logo=iterm&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 

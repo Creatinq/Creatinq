@@ -1,4 +1,4 @@
-## Hello, I'm Creatinq.
+### Hello, I'm Creatinq.
 
 I'm a 15 year old java developer, I'm learning most of java at the moment.
 - Certified dumbass
@@ -6,10 +6,7 @@ I'm a 15 year old java developer, I'm learning most of java at the moment.
 - Complete troll
 - I like cats
 
-## Profile Stats
+### Profile Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creatinq&show_icons=true&theme=radical)
 
-### Project:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creatinq)](https://github.com/creatinq/creatinq)

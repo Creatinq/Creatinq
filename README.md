@@ -5,5 +5,7 @@ I'm a 15 year old java developer, I'm learning most of java at the moment.
 - Jr. Java Developer
 - Complete troll
 - I like cats
-- cat
-- cat 2
+
+## Profile Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Creatinq&show_icons=true&theme=radical)

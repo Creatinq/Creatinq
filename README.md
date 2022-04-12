@@ -12,4 +12,4 @@ I'm a 15 year old java developer, I'm learning most of java at the moment.
 
 ### Project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=client_archives&repo=zonix-client)](https://github.com/client-archives/zonix-client)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creatinq)](https://github.com/creatinq/creatinq)

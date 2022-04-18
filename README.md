@@ -1,4 +1,4 @@
--------------------------------------------------------
+-------------------------------------------------------------------
 
 ### Hello, I'm Creatinq.
 
@@ -21,5 +21,5 @@ I'm a 15 year old java developer, I'm learning most of java at the moment.
 <img align="left" alt="medium" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 
 
--------------------------------------------------------
+
 
